@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css2?family=Londrina+Solid&display=swap");
+
+/* global */
+.nav-item a {
+  color: black !important;
+}
+.form-control {
+  min-width: 10rem;
+}
+
+/* logo */
+.nav-logo {
+  color: green;
+  font-family: "Londrina Solid", cursive;
+  letter-spacing: 0.2rem;
+}
+.auth-logo {
+  display: inline-block;
+  margin-bottom: 20px;
+}
+.auth-logo a {
+  color: green;
+  font-family: "Londrina Solid", cursive;
+  letter-spacing: 0.2rem;
+  text-decoration: none;
+}
+.auth-logo a h3  {
+  padding: .5rem;
+}
+
+/* nav */
+.navbar {
+  box-shadow: 0 2px 4px 0 rgba(0,0,0,.2);
+}
+
+/* hero */
+main {
+  background: rgba(0, 0, 0, 0.2);
+  height: 100vh;
+  color: white;
+}
+.hero {
+  margin-top: 1rem;
+  padding-bottom: 1rem;
+}
+
+
+/* auth */
+.auth-wrapper {
+  min-height: 100vh;
+}
+
+/* .btn-review {
+  color: white;
+  text-decoration: none;
+}
+.btn-review:hover {
+  color: white;
+} */
+
+
+
