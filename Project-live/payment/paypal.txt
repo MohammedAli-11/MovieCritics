@@ -1,0 +1,12 @@
+personal: sb-r447xw19926539@personal.example.com
+            G]ad8bL<
+
+Business: sb-8435y218067742@business.example.com
+            ao2b=3kV
+
+Defaults : 
+    per: sb-bfgdn19970114@personal.example.com
+            By)?@IF9
+    
+    bus: sb-bfgdn19970114@personal.example.com
+            By)?@IF9
